@@ -1,0 +1,21 @@
+body{
+
+	background-image: url(subjects.jpg);
+	 height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+	
+}
+
+h1{
+
+	center;
+  size: 100px;
+  position: absolute;
+  top: 20%;
+  left: 60%;
+  transform: translate(-100%, -100%);
+  color: black;
+}

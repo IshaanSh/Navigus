@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Course Page</title>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="Courses.css">
+<h1>Choose Your Courses !!</h1><br>
+<h3>Select Subject</h3>
+
+Subject:<br>
+<select>
+	<option value="">none</option>
+<option value="Physics">Physics</option><br>
+<option value="Chemistry">Chemistry</option><br>
+<option value="Maths">Maths</option><br>
+</select><br>
+
+<h3>Select Time For Quiz</h3>
+
+Time:<br>
+<select>
+	<option value="">none</option>
+	<option value="1">1pm</option><br>
+	<option value="2">2pm</option><br>
+	<option value="3pm">3pm</option><br>
+	<option value="4pm">4pm</option><br>
+<option value="5pm">5pm</option><br>
+<option value="6pm">6pm</option><br>
+<option value="7pm">7pm</option><br>
+<option value="8pm">8pm</option><br>
+<option value="9pm">9pm</option><br>
+<option value="10">10pm</option><br>	
+</select>
+</body>
+</html>

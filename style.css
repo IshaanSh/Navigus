@@ -1,0 +1,66 @@
+*{
+    height: 100%;
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+  }
+h1{
+  background-position: center;
+}
+.container {
+    /* The image used */
+    background-image: url("bics.jpg");
+  
+    /* Full height */
+    height: 99vh; 
+    min-height: 99vh;
+    width: 229vh;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .container .content{
+    position:relative;
+    
+  }
+  ul{
+      position:absolute;
+      top:10px;
+      right:30px;
+      margin:0;
+      display:flex;
+      list-style-type:none;
+  }
+  ul li{
+      margin-left: 30px;
+  }
+  ul li a{
+      list-style: none;
+      color:white;
+      font-size: 35px;
+      text-decoration: none;
+      font-weight: 600;
+      }
+     a{
+        list-style: none;
+      color:white;
+      font-size: 35px;
+      text-decoration: none;
+      font-weight: 600;
+      padding: 20px 50px;
+      
+    }
+
+a img{
+height: 8vh; 
+    min-height: 8vh;
+    width: 15vh;
+    position: left;
+
+}
+
+
+  
+    
